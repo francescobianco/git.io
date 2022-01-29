@@ -8,7 +8,7 @@ curl -i "https://git.io" \
 
 ```bash
 curl -i "https://git.io" \
-     -d "https://francescobianco.github.io/gitio/redirect/creating-new-files.html" \
+     -d "url=https://francescobianco.github.io/git.io/redirect/creating-new-files.html" \
      -d "code=creating-new-files"
 ```
 
